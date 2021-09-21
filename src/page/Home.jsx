@@ -6,7 +6,7 @@ import Features from '../components/Features'
 import Footer from '../components/Footer'
 import Header from '../components/Header'
 import ProjectBlog from '../components/ProjectBlog'
-// import Team from '../components/Team'
+
 
 const Home = () => {
     return (
@@ -15,9 +15,7 @@ const Home = () => {
             <Banner />
             <Companies />
             <About />
-            <Features />
-//             <Team />
-        
+            <Features />        
             <ProjectBlog />
             <Footer />
         </div>
